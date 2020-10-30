@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1604064514 source:c:\users\aishwarya\desktop\sr04\miscellaneous\5 my_string_lib\main.c
+	<stdio.h>
+	<string.h>
+	"my_string.h"
+
+1604064499 c:\users\aishwarya\desktop\sr04\miscellaneous\5 my_string_lib\my_string.h
+
+1604065151 source:c:\users\aishwarya\desktop\sr04\miscellaneous\5 my_string_lib\my_string.c
+	<stdio.h>
+	<stdlib.h>
+	"my_string.h"
+
