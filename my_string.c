@@ -48,14 +48,15 @@ void my_strlwr(char *buf)
 
 //..........................4.....................
 
-int my_strcmp(char *str1, char *str2)
+int my_strcmp(char* str1, char* str2)
 {
     int i;
-    for(i = 0; i <= my_strlen(str1)-1; i++)
-    {
-        if(str1[i] != str2[i])
-        {
-            return -1;
+    if(my_strlen(str1) != my_strlen(str2))
+        return -1;
+    
+    for(i = 0; i <= my_strlen(str1); i++){
+        if(str1[i] != str2[i]){
+            return -2;
         }
     }
     return 0;

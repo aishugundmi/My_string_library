@@ -11,3 +11,15 @@
 	<stdlib.h>
 	"my_string.h"
 
+1604065201 source:c:\users\aishwarya\desktop\c\miscellaneous\5 my_string_lib\main.c
+	<stdio.h>
+	<string.h>
+	"my_string.h"
+
+1604064499 c:\users\aishwarya\desktop\c\miscellaneous\5 my_string_lib\my_string.h
+
+1609857594 source:c:\users\aishwarya\desktop\c\miscellaneous\5 my_string_lib\my_string.c
+	<stdio.h>
+	<stdlib.h>
+	"my_string.h"
+
