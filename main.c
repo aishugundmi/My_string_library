@@ -7,8 +7,8 @@
 
 
 char buf[50] = "my string library";
-char buf0[50] = "hello world";
-char buf1[50] = "hello world";
+char buf0[50] = "hello world C";
+char buf1[50] = "hello world C";
 char buf2[50] = "my_string";
 char buf3[50] = "zoom";
 char buf4[50] = "On_Off";
